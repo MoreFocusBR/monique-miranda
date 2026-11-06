@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.SEUDOMINIO.com.br/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/monique-moxa-sorrindo.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/monique-consultorio.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/acupuntura-moxabustao.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/bastao-moxa.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/ventosas-preparo.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/agulha-acupuntura.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://www.SEUDOMINIO.com.br/assets/video/ventosaterapia-poster.jpg</video:thumbnail_loc>
+      <video:title>Ventosaterapia no consultório de Monique Miranda</video:title>
+      <video:description>Aplicação de ventosas de vidro com a técnica tradicional do fogo, um dos recursos da Medicina Chinesa utilizados no atendimento.</video:description>
+      <video:content_loc>https://www.SEUDOMINIO.com.br/assets/video/ventosaterapia.mp4</video:content_loc>
+      <video:duration>21</video:duration>
+    </video:video>
+  </url>
+</urlset>
