@@ -1,0 +1,7 @@
+# Vídeo original (45 MB): o site usa a versão recortada em assets/video/
+videos/
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
