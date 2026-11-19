@@ -21,6 +21,17 @@
 - Massagem terapêutica: voltada ao relaxamento e ao alívio de tensões musculares.
 - Dietoterapia chinesa e orientação de hábitos: alimentação, sono, movimento e rotina como parte do cuidado.
 
+## Indicações (cuidado complementar)
+
+A acupuntura e a Medicina Chinesa são utilizadas como cuidado complementar. Exemplos de queixas acompanhadas no consultório:
+
+- Emoções e sono: ansiedade, estresse, depressão, insônia
+- Dores: dores agudas e crônicas, enxaqueca, fibromialgia
+- Saúde da mulher: cólicas menstruais, TPM, sintomas da menopausa
+- Digestão e respiração: constipação intestinal, rinite
+
+O atendimento não substitui o acompanhamento médico ou psicológico, e medicações prescritas não devem ser interrompidas sem orientação médica. Cada caso é avaliado individualmente.
+
 ## Como funciona o atendimento
 
 1. Escuta e avaliação: história, queixas, hábitos e objetivos da pessoa.
@@ -39,5 +50,7 @@ Não é preciso ter uma queixa específica: o atendimento também atende quem de
 ## Páginas
 
 - [Página principal](https://www.SEUDOMINIO.com.br/): abordagem, recursos, sobre Monique, avaliações, dúvidas frequentes e contato.
+- [English version](https://www.SEUDOMINIO.com.br/en/): full site content in English (acupuncture and Chinese Medicine in Campeche, Florianópolis, Brazil).
+- [Indicações](https://www.SEUDOMINIO.com.br/#indicacoes)
 - [Dúvidas frequentes](https://www.SEUDOMINIO.com.br/#duvidas)
 - [Contato e localização](https://www.SEUDOMINIO.com.br/#contato)

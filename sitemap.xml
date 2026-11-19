@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://www.SEUDOMINIO.com.br/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.SEUDOMINIO.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.SEUDOMINIO.com.br/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.SEUDOMINIO.com.br/"/>
     <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/og-image.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/monique-moxa-sorrindo.webp</image:loc></image:image>
     <image:image><image:loc>https://www.SEUDOMINIO.com.br/assets/img/monique-consultorio.webp</image:loc></image:image>
@@ -19,5 +23,12 @@
       <video:content_loc>https://www.SEUDOMINIO.com.br/assets/video/ventosaterapia.mp4</video:content_loc>
       <video:duration>21</video:duration>
     </video:video>
+  </url>
+  <url>
+    <loc>https://www.SEUDOMINIO.com.br/en/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.SEUDOMINIO.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.SEUDOMINIO.com.br/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.SEUDOMINIO.com.br/"/>
   </url>
 </urlset>

@@ -1,0 +1,46 @@
+SITE — MONIQUE MIRANDA | NATURÓLOGA E ACUPUNTURISTA
+
+Conteúdo:
+- index.html: site em português, com dados estruturados (JSON-LD) para Google e assistentes de IA.
+- en/index.html: versão em inglês (mesmo conteúdo). Ao mudar um texto, atualize as DUAS versões.
+- assets/css/site.css e assets/js/site.js: visual e comportamento compartilhados pelas duas versões.
+- assets/img: fotos em WebP (as .jpg ficam como reserva), símbolo do logo, ícones e imagem de compartilhamento (og-image.jpg).
+- assets/video: trecho de 21s de ventosaterapia (sem áudio, sem tarjas) e imagem de capa.
+- favicon.ico, site.webmanifest: ícones do navegador/celular.
+- robots.txt, sitemap.xml: orientação para buscadores (robôs de IA liberados).
+- llms.txt: resumo em texto do negócio para assistentes de IA (ChatGPT, Claude, Perplexity etc.).
+- _headers: cache e segurança no Cloudflare Pages (outras hospedagens ignoram).
+- As pastas images/ e videos/ são os originais e NÃO precisam ser publicadas.
+
+PUBLICAÇÃO:
+1. ANTES DE TUDO: substitua "https://www.SEUDOMINIO.com.br" pelo domínio real em
+   index.html, en/index.html, robots.txt, sitemap.xml e llms.txt (buscar e substituir em todos os arquivos).
+2. Envie para a raiz da hospedagem: index.html, favicon.ico, site.webmanifest, robots.txt,
+   sitemap.xml, llms.txt, _headers e as pastas assets/ e en/.
+3. Configure o domínio no painel da hospedagem.
+4. Teste os links de WhatsApp e localização após a publicação.
+
+DEPOIS DE PUBLICAR (SEO):
+- Google Search Console: adicionar o domínio e enviar o sitemap.xml.
+- Bing Webmaster Tools: importar do Search Console (o Bing alimenta o ChatGPT e o Copilot).
+- Perfil da Empresa no Google: trocar o "site" (hoje é o link do WhatsApp) pelo domínio novo.
+  Isso liga o site ao perfil com nota 5,0 e é o fator de SEO local mais importante.
+- Testar os dados estruturados em https://search.google.com/test/rich-results
+- Testar a prévia de compartilhamento colando o link no WhatsApp.
+- Pedir avaliações no Google aos pacientes (botão "Deixar sua avaliação" no site).
+- Se mudar telefone, endereço ou horário, atualizar em TODOS os lugares: perfil do Google,
+  index.html (texto + JSON-LD) e llms.txt.
+
+PONTOS PARA VALIDAR ANTES DE PUBLICAR:
+- Horário (seg a sex, 8h às 20h) e endereço foram copiados do perfil do Google: confirmar com a Monique.
+- Confirmar os recursos listados (acupuntura, moxabustão, ventosaterapia, auriculoterapia,
+  massagem terapêutica, dietoterapia chinesa).
+- Seção "Indicações": lista enviada pela Monique, apresentada como cuidado complementar e com aviso
+  de que não substitui acompanhamento médico. Manter esse tom evita promessa de cura na publicidade.
+  Se a lista mudar, atualizar também o FAQ (texto + JSON-LD) e o llms.txt.
+- Confirmar autorização da paciente que aparece no vídeo de ventosaterapia.
+- Acrescentar formação detalhada, Instagram e e-mail caso Monique queira divulgá-los
+  (Instagram também deve entrar em "sameAs" no JSON-LD do index.html).
+- Revisar os textos e a descrição profissional com a própria Monique.
+
+Observação: o site não faz promessas de resultados clínicos. O texto descreve a abordagem tradicional e integrativa em linguagem institucional.
